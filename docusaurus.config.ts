@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  // title: 'Shubham Narkhede',
+  title: 'Shubham Narkhede',
   tagline: 'I am DevOps Engineer',
   favicon: 'img/favicon.ico',
 
